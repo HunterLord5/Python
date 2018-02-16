@@ -1,0 +1,4 @@
+Code Quality Check: 
+==================
+{'pep8': [], 'pyflakes': [], 'ze_nolock_rowlock': [], 'ze_sql_injection': []}
+==================
