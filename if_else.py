@@ -17,7 +17,7 @@ if 12 not in list1:
     print("No its not in the list")
 
 
-#Quiz
+# Check whether a person is eligible for driving or not by taking age as input from user
 
 print("Enter the age of the person")
 age = int(input())
