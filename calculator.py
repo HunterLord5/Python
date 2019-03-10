@@ -24,3 +24,4 @@ else:
     else:
         print("Enter the correct values")
 print("The result is: ", result)
+print()
